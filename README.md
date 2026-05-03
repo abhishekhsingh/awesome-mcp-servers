@@ -503,6 +503,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
   - Supports NPM-based servers
   - Automatic configuration generation
   - Easy server management
+- [mcp-halflist](https://github.com/abhishekhsingh/mcp-halflist) - CI-first conformance, security, and benchmarking CLI for MCP servers with offline tool poisoning detection, scored HTML reports, and 37 protocol checks across 5 suites.
 - [mxcp](http://github.com/raw-labs/mxcp) - Open-source framework for building secure, testable, enterprise-grade MCP tools from SQL or Python on top of dbt + DuckDB.
 - [Remote MCP](https://github.com/ssut/Remote-MCP) - Solution to Remote MCP Communication, enabling effortless integration for centralized management of Model Context
 - [yamcp](https://github.com/hamidra/yamcp) - A Model Context Workspace Manager. Oraganize your MCP servers in local workspaces (coding, design, research, ...), scan, monitor, and integrate each workspace with AI apps via a unified CLI.
